@@ -1,0 +1,6 @@
+﻿admin
+login
+wp-admin
+backup
+config
+api
